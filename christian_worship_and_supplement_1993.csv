@@ -1,0 +1,712 @@
+Number,First Line,Category,Tune Name,Meter
+1,The Advent of Our King,Advent,ST. THOMAS,SM
+2,"Savior of the Nations, Come",Advent,"NUN KOMM, DER HEIDEN HEILAND",77 77
+3,"Lift Up Your Heads, You Mighty Gates",Advent,MACHT HOCH DIE TÜR,88 88 88 66
+4,"Lift Up Your Heads, You Mighty Gates",Advent,MILWAUKEE,88 88 88 66
+5,As Angels Joyed with One Accord,Advent,PUER NOBIS NASCITUR,LM
+6,"Come, O Long-Expected Jesus",Advent,ST. HILARY,87 87 D
+7,"Rejoice, Rejoice, Believers",Advent,HAF TRONES LAMPA FÄRDIG,76 76 D
+8,"Come, O Precious Ransom, Come",Advent,MEINEN JESUM LASS ICH NICHT,78 78 77
+9,"Jesus, Your Church with Longing Eyes",Advent,"O JESU CHRISTE, WAHRES LICHT",LM
+10,The Bridegroom Soon Will Call Us,Advent,ACH GOTT VOM HIMMELREICHE,76 76 D
+11,"Comfort, Comfort All My People",Advent,FREU DICH SEHR,87 87 77 88
+12,Hark the Glad Sound! The Savior Comes,Advent,CHESTERFIELD,CM
+13,There's a Voice in the Wilderness Crying,Advent,ASCENSION,Irregular
+14,"Arise, O Christian People",Advent,AUS MINES HERZENS GRUNDE,76 76 67 76
+15,Hark! A Thrilling Voice Is Sounding,Advent,MERTON,87 87
+16,On Jordan's Bank the Baptist's Cry,Advent,PUER NOBIS NASCITUR,LM
+17,God's Own Son Most Holy,Advent,GOTTES SOHN IST KOMMEN,66 66 66
+18,"O Lord, How Shall I Meet You",Advent,WIE SOLL ICH DICH EMPFANGEN,76 76 D
+19,"O Lord, How Shall I Meet You",Advent,VALET WILL ICH DIR GEBEN,76 76 D
+20,When All the World Was Cursed,Advent,WAS FRAG ICH NACH DER WELT,67 67 66 66
+21,Hosanna to the Coming Lord,Advent,VOM HIMMEL HOCH,LM
+22,"O Savior, Rend the Heavens Wide",Advent,"O HEILAND, REISS DIE HIMMEL AUF ",LM
+23,"Oh, Come, Oh, Come, Emmanuel",Advent,"VENI, EMMANUEL",LM with Refrain
+24,The Angel Gabriel from Heaven Came,Advent,GABRIEL’S MESSAGE,10 10 12 10
+25,The King Shall Come,Advent,CONSOLATION,CM
+26,"Jesus Came, the Heavens Adoring",Advent,"SIEH, HIER BIN ICH, EHRENKÖNIG",87 87 87
+27,"O Jesus, Lamb of God, You Are",Advent,WEIMAR,LM
+28,Let the Earth Now Praise the Lord,Advent,"NUN KOMM, DER HEIDEN HEILAND",77 77
+29,"Lo, He Comes with Clouds Descending",Advent,PICARDY,87 87 87
+30,"Rise, Arise",Advent,FAHRE FORT,67 87 89 6
+31,"O Lord of Light, Who Made the Stars",Advent,CONDITOR ALME SIDERUM,LM
+32,When Sinners See Their Lost Condition,Advent,"WER WEISS, WIE NAHE",98 98 88
+33,"All Praise to You, Eternal God",Christmas,"GELOBET SEIST DU, JESU CHRIST",LM with Alleluia
+34,"Now Sing We, Now Rejoice",Christmas,IN DULCI JUBILO,66 66 66 55
+35,Of the Father’s Love Begotten,Christmas,DIVINUM MYSTERIUM,87 87 877
+36,A Great and Mighty Wonder,Christmas,ES IST EIN ROS,76 76 676
+37,Once Again My Heart Rejoices,Christmas,FRÖHLICH SOLL MEIN HERZE SPRINGEN,8 33 6 D
+38,From Heaven Above to Earth I Come,Christmas,VOM HIMMEL HOCH,LM
+39,"Now Praise We Christ, the Holy One",Christmas,CHRISTUM WIR SOLLEN LOBEN SCHON,LM
+40,"O Jesus Christ, Your Manger Is",Christmas,"O JESU CHRIST, DEIN KRIPPLEIN IST",44 11 D
+41,Let All Together Praise Our God,Christmas,"LOBT GOTT, IHR CHRISTEN",86 866
+42,"Come, Your Hearts and Voices Raising",Christmas,QUEM PASTORES,88 87
+43,To Thee My Heart I Offer,Christmas,CORDIS DONUM,76 76 88 86
+44,"Break Forth, O Beauteous Heavenly Light",Christmas,ERMUNTRE DICH,87 87 88 77
+45,"Oh, Rejoice, All Christians, Loudly",Christmas,"FREUET EUCH, IHR CHRISTEN ALLE",877 877 with Refrain
+46,"Your Little Ones, Dear Lord, Are We",Christmas,HER KOMMER DINE ARME SMAA,LM
+47,"Behold, a Branch Is Growing",Christmas,ES IST EIN ROS,76 76 676
+48,When Christmas Morn Is Dawning,Christmas,WIR HATTEN GEBAUET,76 76 76
+49,"Rejoice, Rejoice This Happy Morn",Christmas,WIE SCHÖN LEUCHTET,887 887 22 44 48
+50,Once in Royal David’s City,Christmas,IRBY,87 87 77
+51,I Am So Glad When Christmas Comes,Christmas,JEG ER SAA GLAD,CM
+52,On Christmas Night All Christians Sing,Christmas,SUSSEX CAROL,88 88 88
+53,To Shepherds as They Watched by Night,Christmas,PUER NOBIS NASCITUR,LM
+54,Where Shepherds Lately Knelt,Christmas,MANGER SONG,12 12 10 10
+55,"Oh, Come, All Ye Faithful",Christmas,ADESTE FIDELES,Irregular
+56,Gentle Mary Laid Her Child,Christmas,TEMPUS ADEST FLORIDUM,76 76 D
+57,"Go, Tell It on the Mountain",Christmas,"GO, TELL IT",78 76 76 76
+58,See in Yonder Manger Low,Christmas,HUMILITY,77 77 with Refrain
+59,Christ the Lord to Us Is Born,Christmas,NARODIL SE KRISTUS PAN,74 74 with Refrain
+60,Silent Night! Holy Night,Christmas,STILLE NACHT,Irregular
+61,Hark! The Herald Angels Sing,Christmas,MENDELSSOHN,77 77 D with Refrain
+62,Joy to the World,Christmas,ANTIOCH,CM with Repeat
+63,Angels We Have Heard on High,Christmas,GLORIA,77 77 with Refrain
+64,Let Us All with Gladsome Voice,Christmas,LASST UNS ALLE,76 76 Trochaic
+65,O Little Town of Bethlehem,Christmas,ST. LOUIS,86 446 76 446
+66,O Little Town of Bethlehem,Christmas,FOREST GREEN,86 446 76 446
+67,What Child Is This,Christmas,GREENSLEEVES,87 87 68 67
+68,Away in a Manger,Christmas,CRADLE SONG,11 11 11 11
+69,Across the Sky the Shades of Night,New Year,ALLEIN GOTT IN DER HÖH SEI EHR,87 87 887
+70,"Help Us, O Lord, for Now We Enter",New Year,ICH STERBE TÄGLICH,98 98 88
+71,The Old Year Now Has Passed Away,New Year,"HERR JESU CHRIST, DICH ZU UNS WEND",LM
+72,"O Lord, Our Father, Thanks and Praise",New Year,"NUN FREUT EUCH, LIEBEN CHRISTEN",
+73,To God the Anthem Raising,New Year,HELFT MIR GOTTS GÜTE PREISEN,76 76 67 76
+74,Now Let Us Come before Him,New Year,NEW YEAR,77 77 Iambic
+75,"Father, Let Me Dedicate",New Year,GLORIFICATION,75 75 D
+76,Jesus! Name of Wondrous Love,Name of Jesus,GOTT SEI DANK DURCH ALLE WELT,77 77
+77,In His Temple Now Behold Him,Presentation,WESTMINSTER ABBEY ,87 87 87
+78,O Light of Gentile Nations,Presentation,MUNICH,76 76 D
+79,How Lovely Shines the Morning Star,Epiphany,WIE SCHÖN LEUCHTET,887 887 22 44 48
+80,Angels from the Realms of Glory,Epiphany,REGENT SQUARE,87 87 87
+81,Arise and Shine in Splendor,Epiphany,EPIPHANY,776 778
+82,Songs of Thankfulness and Praise,Epiphany,"ST. GEORGE’S, WINDSOR",77 77 D
+83,As with Gladness Men of Old,Epiphany,DIX,77 77 77
+84,Jesus Shall Reign Where’er the Sun,Epiphany,TRURO,LM
+85,"O God from God, O Light from Light",Epiphany,O GROSSER GOTT,LM D
+86,The Only Son from Heaven,Epiphany,"HERR CHRIST, DER EINIG GOTTS SOHN",76 76 776
+87,"Hail, O Source of Every Blessing",Epiphany,O DURCHBRECHER ALLER BANDE,87 87 D
+88,"To Jordan Came the Christ, Our Lord",Epiphany,CHRIST UNSER HERR ZUM JORDAN KAM,87 87 87 87 7
+89,To Jordan’s River Came Our Lord,Epiphany,WINCHESTER NEW,LM
+90,The People that in Darkness Sat,Epiphany,"LOBT GOTT, IHR CHRISTEN",86 866
+91,The Star Proclaims the King Is Here,Epiphany,"O HEILAND, REISS DIE HIMMEL AUF",LM
+92,Brightest and Best,Epiphany,MORNING STAR,11 10 11 10
+93,Hail to the Lord’s Anointed,Epiphany,"FREUT EUCH, IHR LIEBEN CHRISTEN",76 76 D
+94,"O Jesus, King of Glory",Epiphany,VALET WILL ICH DIR GEBEN,76 76 D
+95,"How Good, Lord, to Be Here",Transfiguration,POTSDAM,SM
+96,"Oh, Wondrous Type! Oh, Vision Fair",Transfiguration,DEO GRACIAS,LM
+97,Down from the Mount of Glory,Transfiguration,ICH FREU MICH IN DEM HERREN,76 76 D
+98,"Jesus, I Will Ponder Now",Lent,"JESU KREUZ, LEIDEN UND PEIN",76 76 D Trochaic
+99,"Oh, Come, My Soul",Lent,"OH, COME, MY SOUL",88 44 8
+100,A Lamb Goes Uncomplaining Forth,Lent,AN WASSERFLÜSSEN BABYLON,87 87 887 887
+101,Behold the Lamb of God,Lent,ECCE AGNUS,66 64 884
+102,Enslaved by Sin and Bound in Chains,Lent,WENN WIR IN HÖCHSTEN NÖTEN SEIN,LM
+103,Glory Be to Jesus,Lent,WEM IN LEIDENSTAGEN,65 65
+104,Go to Dark Gethsemane,Lent,GETHSEMANE,77 77 77
+105,"Sacred Head, Now Wounded",Lent,HERZLICH TUT MICH VERLANGEN,76 76 D
+106,Come to Calvary’s Holy Mountain,Lent,NAAR MIT ÖIE,87 87 77
+107,Deep Were His Wounds,Lent,MARLEE,66 66 88
+108,"Jesus, Refuge of the Weary",Lent,O DU LIEBE MEINER LIEBE,87 87 D
+109,When O’er My Sins I Sorrow,Lent,"HERR CHRIST, DER EINIG GOTTS SOHN",76 76 776
+110,My Song Is Love Unknown,Lent,LOVE UNKNOWN,66 66 4444
+111,"Sweet the Moments, Rich in Blessing",Lent,RINGE RECHT,87 87
+112,There Is a Fountain Filled with Blood,Lent,COWPER,CM
+113,Upon the Cross Extended,Lent,"O WELT, ICH MUSS DICH LASSEN",776 778
+114,"Christ, the Life of All the Living",Lent,"JESU, MEINES LEBENS LEBEN",87 87 88 77
+115,He Stood before the Court,Lent,MARLEE,66 66 88
+116,In the Hour of Trial,Lent,ST. MARY MAGDALENE,65 65 D
+117,O Dearest Jesus,Lent,HERZLIEBSTER JESU,11 11 11 5
+118,"O Dearest Lord, Thy Sacred Head",Lent,DETROIT,CM
+119,Were You There,Lent,WERE YOU THERE,10 10 14 10
+120,What Wondrous Love Is This,Lent,WONDROUS LOVE,12 9 66 12 9
+121,"Jesus, Grant that Balm and Healing",Lent,DER AM KREUZ,87 87 77 88
+122,"Sing, My Tongue, the Glorious Battle",Lent,FORTUNATUS NEW,87 87 87
+123,"Lord Jesus Christ, You Set Us Free",Lent,"WIR DANKEN DIR, HERR JESU CHRIST",LM
+124,"Savior, When in Dust to You",Lent,SPANISH CHANT,77 77 D
+125,When I Survey the Wondrous Cross,Lent,HAMBURG,LM
+126,"Lord Jesus, You Are Going Forth",Lent,SO GEHST DU NUN,87 87 447 447 Iambic
+127,"Stricken, Smitten, and Afflicted",Lent,"O MEIN JESU, ICH MUSS STERBEN",87 87 D
+128,Not All the Blood of Beasts,Lent,SOUTHWELL,SM
+129,Alas! and Did My Savior Bleed,Lent,MARTYRDOM,CM
+130,"Hosanna, Loud Hosanna",Palm Sunday,ELLACOMBE,76 76 D
+131,"All Glory, Laud, and Honor",Palm Sunday,VALET WILL ICH DIR GEBEN,76 76 D
+132,"Ride On, Ride On in Majesty",Palm Sunday,THE KING’S MAJESTY,LM
+133,"Ride On, Ride On in Majesty",Palm Sunday,WINCHESTER NEW,LM
+134,"O Bride of Christ, Rejoice",Palm Sunday,WO SOLL ICH FLIEHEN HIN,66 77 77
+135,"The Death of Jesus Christ, Our Lord",Maundy Thursday,"GOTTLOB, ES GEHT NUNMEHR ZU ENDE",LM
+136,"’Twas on that Dark, that Doleful Night",Maundy Thursday,ST. CROSS,LM
+137,"Oh, Darkest Woe",Good Friday,"O TRAURIGKEIT, O HERZELEID",44 776
+138,"Oh, Perfect Life of Love",Good Friday,SOUTHWELL,SM
+139,"Jesus, in Your Dying Woes",Good Friday,SEPTEM VERBA,777 6
+140,God Was There on Calvary,Good Friday,GOD WAS THERE ON CALVARY,77 75
+141,At the Lamb’s High Feast We Sing,Easter,SONNE DER GERECHTIGKEIT,77 77 4
+142,"Come, You Faithful, Raise the Strain",Easter,GAUDEAMUS PARITER,76 76 D Trochaic
+143,"He’s Risen, He’s Risen",Easter,WALTHER,11 11 11 11
+144,Christ Is Arisen,Easter,CHRIST IST ERSTANDEN,PM
+145,Jesus Lives! The Victory’s Won,Easter,"JESUS, MEINE ZUVERSICHT",78 78 77
+146,His Battle Ended There,Easter,NCHEU,65 65 55 88
+147,Like the Golden Sun Ascending,Easter,WERDE MUNTER,87 87 77 88
+148,"The Strife Is O’er, the Battle Done",Easter,VICTORY,888 4 with Alleluias
+149,Christ the Lord Is Risen Today,Easter,ORIENTIS PARTIBUS,77 77
+150,Christ the Lord Is Risen Today; Alleluia,Easter,LLANFAIR,77 77 with Alleluias
+151,Triumphant from the Grave,Easter,TRIUMPH,SM with Refrain
+152,I Know that My Redeemer Lives,Easter,DUKE STREET,LM
+153,Alleluia! Jesus Lives,Easter,FRED TIL BOD,77 77 77
+154,"Alleluia, Alleluia, Give Thanks",Easter,ALLELUIA NO. 1,Irregular with Refrain
+155,Christ the Lord Is Risen Again,Easter,CHRISTUS IST ERSTANDEN,77 77 4
+156,"Awake, My Heart, with Gladness",Easter,"AUF, AUF, MEIN HERZ",76 76 66 66
+157,Jesus Christ Is Risen Today,Easter,EASTER HYMN,77 77 with Alleluias
+158,I Am Content! My Jesus Lives Again,Easter,ES IST GENUG,10 6 10 6 99 44
+159,Morning Breaks upon the Tomb,Easter,INNOCENTS,77 77
+160,This Joyful Eastertide,Easter,VRUECHTEN,67 67 with Refrain
+161,Christ Jesus Lay in Death’s Strong Bands,Easter,CHRIST LAG IN TODESBANDEN,87 87 78 74
+162,He Is Arisen! Glorious Word,Easter,WIE SCHÖN LEUCHTET,887 887 22 44 48
+163,"Welcome, Happy Morning",Easter,SEI DU MIR GEGRÜSSET,65 65 D with Refrain
+164,Today in Triumph Christ Arose,Easter,HEUT TRIUMPHIERET GOTTES SOHN,888 888
+165,O Sons and Daughters of the King,Easter,GELOBT SEI GOTT,888 with Alleluias
+166,The Day of Resurrection,Easter,LANCASHIRE,76 76 D
+167,"Jesus Christ, My Sure Defense",Easter,"JESUS, MEINE ZUVERSICHT",78 78 77
+168,With High Delight Let Us Unite,Easter,MIT FREUDEN ZART,448 448 44 44 8
+169,Alleluia! Sing to Jesus,Ascension,HYMN TO JOY,87 87 D
+170,Draw Us to Thee,Ascension,ACH GOTT UND HERR,447 447
+171,A Hymn of Glory Let Us Sing,Ascension,LASST UNS ERFREUEN,888 888 with Alleluias
+172,Up through Endless Ranks of Angels,Ascension,ASCENDED TRIUMPH,87 87 87
+173,On Christ’s Ascension I Now Build,Ascension,"NUN FREUT EUCH, LIEBEN CHRISTEN",87 87 887
+174,"See, the Conqueror Mounts in Triumph",Ascension,REX GLORIAE,87 87 D
+175,Hail the Day that Sees Him Rise,Ascension,ORIENTIS PARTIBUS,77 77
+176,"Come, Holy Ghost, God and Lord",Pentecost,"KOMM, HEILIGER GEIST, HERRE GOTT",78 88 88 8 10 8
+177,"Come, Holy Ghost, Creator Blest",Pentecost,"KOMM, GOTT SCHÖPFER",LM
+178,"Come, Holy Ghost, Creator Blest",Pentecost,VENI CREATOR SPIRITUS,LM
+179,"Hail Thee, Festival Day",Pentecost,SALVE FESTA DIES,Irregular
+180,"Holy Spirit, God of Love",Pentecost,"DER TAG, DER IST SO FREUDENREICH",76 76 776 776
+181,"Come, Oh, Come, Life-Giving Spirit",Pentecost,"KOMM, O KOMM, DU GEIST DES LEBENS",87 87 77
+182,"Holy Spirit, Ever Dwelling",Pentecost,IN BABILONE,87 87 D
+183,"Holy Spirit, Light Divine",Pentecost,SONG 13,77 77
+184,"O Holy Spirit, Enter In",Pentecost,WIE SCHÖN LEUCHTET,887 887 22 44 48
+185,"O Holy Spirit, Grant Us Grace",Pentecost,ES IST GEWISSLICH,87 87 887
+186,"O Spirit of Life, O Spirit of God",Pentecost,O JESULEIN SÜSS,10 8 88 10
+187,When God the Spirit Came,Pentecost,FRANKLIN,66 86 66
+188,"Creator Spirit, by Whose Aid",Pentecost,ALL EHR UND LOB,88 88 88
+189,"Jehovah, Let Me Now Adore You",Pentecost,"DIR, DIR, JEHOVAH",9 10 9 10 10 10
+190,We Now Implore God the Holy Ghost,Pentecost,NUN BITTEN WIR,99 11 10 4
+191,"Father Most Holy, Merciful, and Tender",Holy Trinity,SHADES MOUNTAIN,11 11 11 5
+192,"Triune God, Oh, Be Our Stay",Holy Trinity,GOTT DER VATER WOHN UNS BEI,77 77 77 7 D
+193,"Come, Now, Almighty King",Holy Trinity,ITALIAN HYMN,664 6664
+194,"Oh, that I Had a Thousand Voices",Holy Trinity,O DASS ICH TAUSEND ZUNGEN HÄTTE (DRETZEL),98 98 88
+195,"Holy, Holy, Holy! Lord God Almighty",Holy Trinity,NICAEA,11 12 12 10
+196,"Lord God, to You We All Give Praise",St. Michael and All Angels,DEUS TUORUM MILITUM,LM
+197,They Leave Their Place on High,St. Michael and All Angels,SUSANNA,66 88 66
+198,Around the Throne of God a Band,St. Michael and All Angels,WAREHAM,LM
+199,"In Trembling Hands, Lord God, We Hold",Reformation,IN TREMBLING HANDS,LM
+200,A Mighty Fortress Is Our God,Reformation,EIN FESTE BURG,87 87 55 56 7
+201,A Mighty Fortress Is Our God,Reformation,EIN FESTE BURG,87 87 55 56 7
+202,If God Had Not Been on Our Side,Reformation,WÄCHTERLIED,87 87 887
+203,"Lord, Keep Us Steadfast in Your Word",Reformation,"ERHALT UNS, HERR",LM
+204,"O God, Our Lord, Your Holy Word",Reformation,"O HERRE GOTT, DEIN GÖTTLICH WORT",447 447 D Iambic
+205,"O Lord, Look Down from Heaven",Reformation,"ACH GOTT, VOM HIMMEL SIEH DAREIN",87 87 887
+206,"Wake, Awake, for Night Is Flying",End Time,WACHET AUF,898 898 664 448
+207,The Day Is Surely Drawing Near,End Time,ES IST GEWISSLICH,87 87 887
+208,"Great God, What Do I See and Hear",End Time,ES IST GEWISSLICH,87 87 887
+209,"Day of Wrath, Oh, Day of Mourning",End Time,DIES IRAE,888
+210,Who Knows When Death,End Time,"WER WEISS, WIE NAHE",98 98 88
+211,I Know of a Sleep in Jesus’ Name,End Time,DEN SIGNEDE DAG,98 98 98
+212,"Jerusalem, Thou City Fair and High",End Time,"JERUSALEM, DU HOCHGEBAUTE STADT",10 6 10 6 76 76
+213,Forever with the Lord,End Time,SCHUMANN,SM
+214,Jerusalem the Golden,End Time,EWING,76 76 D
+215,"Jerusalem, My Happy Home",End Time,LAND OF REST,CM
+216,"Saints, Behold! The Sight Is Glorious",End Time,CORONAE,87 87 47
+217,The Head that Once Was Crowned,End Time,ST. MAGNUS,CM
+218,Then the Glory,End Time,NOW,78 78 78 78 78 87 63
+219,"Lord, When Your Glory I Shall See",End Time,WEDDING GLORY,87 87 887 887
+220,O’er the Distant Mountains Breaking,End Time,"O JERUSALEM, DU SCHÖNE",87 87 447
+221,"Blessed Jesus, at Your Word",Opening of Service,"LIEBSTER JESU, WIR SIND HIER",78 78 88
+222,Songs of Praise the Angels Sang,Opening of Service,INNOCENTS,77 77
+223,As We Begin Another Week,Opening of Service,"HERR JESU CHRIST, MEINS",LM
+224,God Himself Is Present,Opening of Service,WUNDERBARER KÖNIG,668 668 33 66
+225,This Is the Day the Lord Has Made,Opening of Service,NUN DANKET ALL,CM
+226,To Your Temple I Draw Near,Opening of Service,GOTT SEI DANK DURCH ALLE WELT,77 77
+227,"Come, Let Us Join Our Cheerful Songs",Opening of Service,NUN DANKET ALL,CM
+228,"Come, Rejoice before Your Maker",Opening of Service,JUBILATE DEO,87 87
+229,This Day at Your Creating Word,Opening of Service,WINCHESTER NEW,LM
+230,"Lord Jesus Christ, Be Present Now",Opening of Service,"HERR JESU CHRIST, DICH ZU UNS WEND",LM
+231,Now the Silence,Opening of Service,NOW,78 78 78 78 78 87 63
+232,"Lord of My Life, Whose Tender Care",Opening of Service,"O JESU, WARUM LEGST DU MIR",86 86 88
+233,All People that on Earth Do Dwell,Worship and Praise,OLD HUNDREDTH,LM
+234,"Praise to the Lord, the Almighty",Worship and Praise,LOBE DEN HERREN,14 14 478
+235,"Praise the Almighty; My Soul, Adore Him",Worship and Praise,"LOBE DEN HERREN, O MEINE SEELE",10 8 10 8 88 8
+236,All Praise to God Who Reigns Above,Worship and Praise,"LOBT GOTT DEN HERREN, IHR HEIDEN ALL",87 87 887
+237,"Lord of Lords, the Sparkling Heavens",Worship and Praise,CWM RHONDDA,87 87 877
+238,"Oh, Bless the Lord, My Soul",Worship and Praise,ST. THOMAS,SM
+239,Glory Be to God the Father,Worship and Praise,WORCESTER,87 87 47
+240,"Immortal, Invisible, God Only Wise",Worship and Praise,ST. DENIO,11 11 11 11
+241,Alleluia! Let Praises Ring,Worship and Praise,WIE SCHÖN LEUCHTET,887 887 22 44 48
+242,"Oh, that I Had a Thousand Voices",Worship and Praise,O DASS ICH TAUSEND ZUNGEN HÄTTE (KÖNIG),98 98 88
+243,"Oh, Worship the King",Worship and Praise,HANOVER,10 10 11 11
+244,"Arise, My Soul, Arise",Worship and Praise,"NYT YLÖS, SIELUNI",PM
+245,Sing a New Song to the Lord,Worship and Praise,CANTATE DOMINO,77 11 8
+246,The Stars Declare His Glory,Worship and Praise,ALDINE,Irregular
+247,Earth and All Stars,Worship and Praise,EARTH AND ALL STARS,457 457 with Refrain
+248,When in Our Music God Is Glorified,Worship and Praise,ENGELBERG,10 10 10 with Alleluia
+249,"God of Mercy, God of Grace",Worship and Praise,RATISBON,77 77 77
+250,From All that Dwell below the Skies,Worship and Praise,LASST UNS ERFREUEN,888 888 with Alleluias
+251,When Morning Gilds the Skies,Worship and Praise,LAUDES DOMINI,666 666
+252,"Oh, Sing to the Lord",Worship and Praise,"GUDS MENIGHED, SYNG",11 5 12 9
+253,I Will Sing My Maker’s Praises,Worship and Praise,SOLLT ICH MEINEM GOTT NICHT SINGEN,87 87 87 78 77
+254,The Day Full of Grace,Worship and Praise,DEN SIGNEDE DAG,98 98 98
+255,Open Now Thy Gates of Beauty,Worship and Praise,UNSER HERRSCHER,87 87 77
+256,How Great Thou Art,Worship and Praise,HOW GREAT THOU ART,11 10 11 10
+257,"My Soul, Now Bless Your Maker",Worship and Praise,"NUN LOB, MEIN SEEL",78 78 76 76 76 76
+258,Now Let All Loudly,Worship and Praise,NUN PREISET ALLE,56 56 9 10 10
+259,"When All Your Mercies, O My God",Worship and Praise,WINCHESTER OLD,CM
+260,Let All Things Now Living,Worship and Praise,THE ASH GROVE,66 11 66 11 D
+261,We Sing the Almighty Power of God,Worship and Praise,ICH SINGE DIR,CM
+262,All Glory Be to God Alone,Hymns of the Liturgy,ALL EHR UND LOB,88 88 88
+263,All Glory Be to God on High,Hymns of the Liturgy,ALLEIN GOTT IN DER HÖH SEI EHR,87 87 887
+264,Glory Be to God in Heaven,Hymns of the Liturgy,LADUE CHAPEL,87 87 D
+265,This Is the Feast of Victory,Hymns of the Liturgy,FESTIVAL CANTICLE,Irregular with Refrain
+266,"Kyrie, God Father in Heaven Above",Hymns of the Liturgy,"KYRIE, GOTT VATER",PM
+267,"Isaiah, Mighty Seer in Days of Old",Hymns of the Liturgy,"JESAIA, DEM PROPHETEN",PM
+268,"Lamb of God, Pure and Holy",Hymns of the Liturgy,"O LAMM GOTTES, UNSCHULDIG",77 77 778
+269,In Peace and Joy I Now Depart,Hymns of the Liturgy,MIT FRIED UND FREUD,85 84 77
+270,We All Believe in One True God,Hymns of the Liturgy,WIR GLAUBEN ALL AN EINEN GOTT,87 77 77
+271,We All Believe in One True God,Hymns of the Liturgy,WIR GLAUBEN ALL AN EINEN GOTT,88 88 88 88 88
+272,"Create in Me a Clean Heart, O God",Hymns of the Liturgy,"SCHAFFE IN MIR, GOTT",PM
+273,Glory Be to the Father,Hymns of the Liturgy,GLORY BE TO THE FATHER,PM
+274,My Soul Now Magnifies the Lord,Hymns of the Liturgy,ANGELUS,LM
+275,Blest Be the God of Israel,Hymns of the Liturgy,ELLACOMBE,76 76 D
+276,Praise Be to the Lord,Hymns of the Liturgy,,
+277,"God, We Praise You",Hymns of the Liturgy,AUSTRIA,87 87 D
+278,"Holy God, We Praise Your Name",Hymns of the Liturgy,"GROSSER GOTT, WIR LOBEN DICH",78 78 77
+279,O Word of God Incarnate,Word of God,MUNICH,76 76 D
+280,Thy Strong Word,Word of God,EBENEZER,87 87 D
+281,God Has Spoken by His Prophets,Word of God,REX GLORIAE,87 87 D
+282,"Lord, Open Now My Heart to Hear",Word of God,"ERHALT UNS, HERR",LM
+283,"Speak, O Savior; I Am Listening",Word of God,WERDE MUNTER,87 87 77 88
+284,How Precious Is the Book Divine,Word of God,WALDER,CM
+285,The Ten Commandments Are the Law,Word of God,IN GOTTES NAMEN FAHREN WIR,88 87 4
+286,The Law Commands and Makes Us Know,Word of God,OLD HUNDREDTH,LM
+287,The Law of God Is Good and Wise,Word of God,"ERHALT UNS, HERR",LM
+288,The Gospel Shows the Father’s Grace,Word of God,"HERR JESU CHRIST, DICH ZU UNS WEND",LM
+289,"Preserve Your Word, O Savior",Word of God,"FREUT EUCH, IHR LIEBEN CHRISTEN",76 76 D
+290,One Thing’s Needful,Word of God,EINS IST NOT,87 87 12 12 11 11
+291,We Have a Sure Prophetic Word,Word of God,WO GOTT ZUM HAUS,LM
+292,The Lord Is God; There Is No Other,Word of God,DENVER,98 98
+293,God’s Word Is Our Great Heritage,Word of God,REUTER,87 87 66 66 7
+294,Baptized into Your Name Most Holy,Baptism,O DASS ICH TAUSEND ZUNGEN HÄTTE (KÖNIG),98 98 88
+295,"Dearest Jesus, We Are Here",Baptism,"LIEBSTER JESU, WIR SIND HIER",78 78 88
+296,Our Children Jesus Calls,Baptism,FRANCONIA,SM
+297,Baptized in Water,Baptism,BUNESSAN,55 8 D
+298,"Dear Father, You Have Made Us All",Baptism,"HERR JESU CHRIST, DICH ZU UNS WEND",LM
+299,All Who Believe and Are Baptized,Baptism,ES IST DAS HEIL,87 87 887
+300,See This Wonder in the Making,Baptism,TRYGGARE KAN INGEN VARA,LM Trochaic
+301,"We Praise You, Lord",Baptism,ST. MAGNUS,CM
+302,"Lord, to You I Make Confession",Confession and Absolution,"HERR, ICH HABE MISSGEHANDELT",87 87 88
+303,With Broken Heart and Contrite Sigh,Confession and Absolution,ST. LUKE,LM
+304,Jesus Sinners Does Receive,Confession and Absolution,MEINEN JESUM LASS ICH NICHT,78 78 77
+305,From Depths of Woe I Cry to You,Confession and Absolution,AUS TIEFER NOT,87 87 887
+306,"Before You, God, the Judge of All",Confession and Absolution,"VATER UNSER IM HIMMELREICH, DER DU",88 88 88
+307,"Wondrous Are Your Ways, O God",Confession and Absolution,"JESU KREUZ, LEIDEN UND PEIN",76 76 D Trochaic
+308,"As Surely As I Live, God Said",Confession and Absolution,ST. LUKE,LM
+309,Draw Near and Take the Body of the Lord,Holy Communion,OLD 124TH,10 10 10 10
+310,"I Come, O Savior, to Your Table",Holy Communion,ICH STERBE TÄGLICH,98 98 888
+311,"Soul, Adorn Yourself with Gladness",Holy Communion,SCHMÜCKE DICH,LM D Trochaic
+312,"Lord Jesus Christ, You Have Prepared",Holy Communion,"DU LEBENSBROT, HERR JESU CHRIST",87 87 887
+313,"Jesus Christ, Our Blessed Savior",Holy Communion,"JESUS CHRISTUS, UNSER HEILAND, DER VON UNS",88 78
+314,O Living Bread from Heaven,Holy Communion,ACH GOTT VOM HIMMELREICHE,76 76 D
+315,"Here, O My Lord, I See You Face to Face",Holy Communion,FARLEY CASTLE,10 10 10 10
+316,"O Jesus, Blessed Lord, to Thee",Holy Communion,OLD HUNDREDTH,LM
+317,"O Lord, We Praise You",Holy Communion,GOTT SEI GELOBET UND GEBENEDEIET,PM
+318,Sent Forth by God’s Blessing,Holy Communion,THE ASH GROVE,66 11 66 11 D
+319,On My Heart Imprint Your Image,Close of Service,DER AM KREUZ,87 87 77 88
+320,On My Heart Imprint Your Image,Close of Service,FREU DICH SEHR,87 87 77 88
+321,"Savior, Again to Thy Dear Name",Close of Service,ELLERS,10 10 10 10
+322,On What Has Now Been Sown,Close of Service,DARWALL’S 148TH,66 66 88
+323,"Almighty Father, Bless the Word",Close of Service,OLD HUNDREDTH,LM
+324,"Almighty God, Your Word Is Cast",Close of Service,DUNDEE,CM
+325,How Blest Are They Who Hear,Close of Service,OM HIMMERIGES RIGE,887 88 77
+326,May the Grace of Christ Our Savior,Close of Service,STUTTGART,87 87
+327,God Be with You till We Meet Again,Close of Service,GOD BE WITH YOU,98 89 with Refrain
+328,God Be with You till We Meet Again,Close of Service,RANDOLPH,98 89
+329,"Lord, Dismiss Us with Your Blessing",Close of Service,NEW ULM,87 87 87
+330,"Now, the Hour of Worship O’er",Close of Service,"LIEBSTER JESU, WIR SIND HIER",78 78 88
+331,"Guide Me, O Thou Great Jehovah",Close of Service,GUIDE ME,87 87 47
+332,"Go, My Children, with My Blessing",Close of Service,AR HYD Y NOS,84 84 88 84
+333,"Abide, O Dearest Jesus",Close of Service,"CHRISTUS, DER IST MEIN LEBEN",76 76
+334,"Praise God, from Whom All Blessings Flow",Close of Service,OLD HUNDREDTH,LM
+335,"O Kingly Love, that Faithfully",Invitation,KINGLY LOVE,PM
+336,"Come unto Me, Ye Weary",Invitation,ANTHES,76 76 D
+337,Delay Not! Delay Not,Invitation,MALDWYN,11 11 11 11
+338,I Heard the Voice of Jesus Say,Invitation,VOX DILECTI,CM D
+339,Today Your Mercy Calls Us,Invitation,ANTHES,76 76 D
+340,"Oh, for a Thousand Tongues to Sing",Redeemer,BEATITUDO,CM
+341,Crown Him with Many Crowns,Redeemer,DIADEMATA,SM D
+342,Amid the World’s Bleak Wilderness,Redeemer,GRANTON,Irregular
+343,Christ Is the World’s Light,Redeemer,CHRISTE SANCTORUM,10 11 11 6
+344,At the Name of Jesus,Redeemer,KING’S WESTON,65 65 D
+345,In the Cross of Christ I Glory,Redeemer,RATHBUN,87 87
+346,In You Is Gladness,Redeemer,IN DIR IST FREUDE,PM
+347,Jesus! and Shall It Ever Be,Redeemer,FEDERAL STREET,LM
+348,"Jesus, Jesus, Only Jesus",Redeemer,"JESUS, JESUS, NICHTS ALS JESUS",87 87 77
+349,"Jesus, Priceless Treasure",Redeemer,"JESU, MEINE FREUDE",665 665 34 86
+350,All Praise Be Yours,Redeemer,NATIONAL CITY,10 10 10 with Alleluia
+351,"Hail, O Once-Despised Jesus",Redeemer,O DURCHBRECHER ALLER BANDE,87 87 D
+352,"Lord, Enthroned in Heavenly Splendor",Redeemer,BRYN CALFARIA,87 87 444 77
+353,Praise the One Who Breaks the Darkness,Redeemer,BEACH SPRING,87 87 D
+354,"Lamb of God, We Fall before You",Redeemer,RINGE RECHT,87 87
+355,"Take the World, but Give Me Jesus",Redeemer,GIVE ME JESUS,87 87 with Refrain
+356,You Are the Way; through You Alone,Redeemer,DUNDEE,CM
+357,"Jesus, Lover of My Soul",Redeemer,ABERYSTWYTH,77 77 D
+358,How Sweet the Name of Jesus Sounds,Redeemer,ST. PETER,CM
+359,"Jesus, My Great High Priest",Redeemer,BEVAN,66 66 88
+360,The Lord’s My Shepherd; I’ll Not Want,Redeemer,BELMONT,CM
+361,Let All Mortal Flesh Keep Silence,Redeemer,PICARDY,87 87 87
+362,"Lord Jesus Christ, My Savior Blest",Redeemer,HERRE JESU KRIST,447 444 7
+363,The King of Glory Comes,Redeemer,PROMISED ONE,12 12 with Refrain
+364,My Heart Is Longing,Redeemer,PRINCESS EUGENIE,10 10 10 10
+365,"Love Divine, All Love Excelling",Redeemer,HYFRYDOL,87 87 D
+366,"O Jesus So Sweet, O Jesus So Mild",Redeemer,O JESULEIN SÜSS,10 8 88 10
+367,Christ Be My Leader,Redeemer,SLANE,Irregular
+368,"O Savior, Precious Savior",Redeemer,ANGEL’S STORY,76 76 D
+369,Beautiful Savior,Redeemer,SCHÖNSTER HERR JESU,557 558
+370,All Hail the Power of Jesus’ Name,Redeemer,CORONATION,86 86 86
+371,"Oh, Love, How Deep",Redeemer,DEO GRACIAS,LM
+372,I Lay My Sins on Jesus,Redeemer,AURELIA,76 76 D
+373,"O Jesus, King Most Wonderful",Redeemer,ST. AGNES,CM
+374,My Shepherd Will Supply My Need,Redeemer,RESIGNATION,CM D
+375,The King of Love My Shepherd Is,Redeemer,ST. COLUMBA,87 87 Iambic
+376,"Jesus, Your Blood and Righteousness",Justification,ST. CRISPIN,LM
+377,"Dear Christians, One and All, Rejoice",Justification,"NUN FREUT EUCH, LIEBEN CHRISTEN",87 87 887
+378,All Mankind Fell in Adam’s Fall,Justification,WENN WIR IN HÖCHSTEN NÖTEN SEIN,LM
+379,Amazing Grace — How Sweet the Sound,Justification,NEW BRITAIN,CM
+380,"Lord, ’Tis Not that I Did Choose You",Justification,O DU LIEBE MEINER LIEBE,87 87 D
+381,Grace Has a Thrilling Sound,Justification,ENERGY,SM
+382,My Hope Is Built on Nothing Less,Justification,MAGDALEN,88 88 88
+383,"Blessed Are They, Forever Blest",Justification,"O JESU CHRISTE, WAHRES LICHT",LM
+384,By Grace I’m Saved,Justification,O DASS ICH TAUSEND ZUNGEN HÄTTE (DRETZEL),98 98 88
+385,Chief of Sinners Though I Be,Justification,GETHSEMANE,77 77 77
+386,Now I Have Found the Firm Foundation,Justification,O DASS ICH TAUSEND ZUNGEN HÄTTE (KÖNIG),98 98 88
+387,Drawn to the Cross,Justification,JUST AS I AM,888 6
+388,"Redeemed, Restored, Forgiven",Justification,KUORTANE,76 76 D
+389,"Rock of Ages, Cleft for Me",Justification,TOPLADY,77 77 77
+390,Salvation unto Us Has Come,Justification,ES IST DAS HEIL,87 87 887
+391,God Loved the World So that He Gave,Justification,ST. CRISPIN,LM
+392,Not unto Us,Justification,NOT UNTO US,12 10 13 10
+393,"If Your Beloved Son, O God",Justification,"NUN FREUT EUCH, LIEBEN CHRISTEN",87 87 887
+394,Blessed Are the Saints of God,Justification,VOLLER WUNDER,77 77 77
+395,Seek Where You May to Find a Way,Justification,"SUCH, WER DA WILL",447 447 44 447
+396,In Adam We Have All Been One,Justification,ADAM,CM
+397,"Just As I Am, without One Plea",Justification,WOODWORTH,LM
+398,"Lord, We Confess Our Numerous Faults",Justification,ST. FLAVIAN,CM
+399,To God Be the Glory,Justification,TO GOD BE THE GLORY,11 11 11 11 with Refrain
+400,"O God, O Lord of Heaven and Earth",Justification,WITTENBERG NEW,LM D
+401,"Your Works, Not Mine, O Christ",Justification,ST. JOHN,66 66 88
+402,My Faith Looks Up to Thee,Faith,OLIVET,664 6664
+403,I Know My Faith Is Founded,Faith,"NUN LOB, MEIN SEEL",78 78 76 76 76 76
+404,Faith Is a Living Power from Heaven,Faith,"HERR JESU CHRIST, MEINS",LM
+405,"Oh, for a Faith that Will Not Shrink",Faith,ST. PETER,CM
+406,This Is the Threefold Truth,Faith,ACCLAMATIONS,12 12 12
+407,"O Lord, You Have in Your Pure Grace",Prayer,"VATER UNSER IM HIMMELREICH, DER DU",88 88 88
+408,"Christians, While on Earth Abiding",Prayer,WERDE MUNTER,87 87 77 88
+409,"Come, My Soul, with Every Care",Prayer,VIENNA,77 77
+410,"Our Father, Who from Heaven Above",Prayer,"VATER UNSER IM HIMMELREICH, DER DU",88 88 88
+411,What a Friend We Have in Jesus,Prayer,CONVERSE,87 87 D
+412,"Lord, Teach Us How to Pray Aright",Prayer,ST. FLAVIAN,CM
+413,When in the Hour of Utmost Need,Prayer,WENN WIR IN HÖCHSTEN NÖTEN SEIN,LM
+414,I Leave All Things to God’s Direction,Trust,WER NUR DEN LIEBEN GOTT,98 98 88
+415,"Be Still, My Soul",Trust,FINLANDIA,10 10 10 10 10 10
+416,How Firm a Foundation,Trust,FIRM FOUNDATION,11 11 11 11
+417,I’m But a Stranger Here,Trust,HEAVEN IS MY HOME,64 64 6664
+418,My God Will Never Leave Me,Trust,VON GOTT WILL ICH NICHT LASSEN,76 76 67 76
+419,If God Himself Be for Me,Trust,VALET WILL ICH DIR GEBEN,76 76 D
+420,God Moves in a Mysterious Way,Trust,DUNDEE,CM
+421,All Depends on Our Possessing,Trust,ALLES IST AN GOTTES SEGEN,887 887
+422,"Jesus, Lead Us On",Trust,SEELENBRÄUTIGAM,55 88 55
+423,"Not in Anger, Mighty God",Trust,STRAF MICH NICHT,76 76 33 66
+424,"O God, Forsake Me Not",Trust,"O GOTT, DU FROMMER GOTT (I)",67 67 66 66
+425,"Oh, Sing, My Soul, Your Maker’s Praise",Trust,WÄCHTERLIED,87 87 887
+426,"Yours Forever, God of Love",Trust,VIENNA,77 77
+427,We Are the Lord’s,Trust,EIRENE,11 10 11 10
+428,Why Should Cross and Trial Grieve Me,Trust,WARUM SOLLT ICH MICH DENN GRÄMEN,8 33 6 D
+429,What God Ordains Is Always Good,Trust,WAS GOTT TUT,87 87 44 77
+430,Evening and Morning,Trust,DIE GÜLDNE SONNE,PM
+431,I Walk in Danger All the Way,Trust,DER LIEBEN SONNE LICHT UND PRACHT,87 87 66 88
+432,I Am Jesus’ Little Lamb,Trust,WEIL ICH JESU SCHÄFLEIN BIN,77 88 77
+433,"Jesus, Savior, Pilot Me",Trust,PILOT,77 77 77
+434,"Lord, You I Love with All My Heart",Trust,"HERZLICH LIEB HAB ICH DICH, O HERR",887 887 88 88 488
+435,The Will of God Is Always Best,Trust,WAS MEIN GOTT WILL,87 87 447 447 Iambic
+436,"Jesus, Shepherd of the Sheep",Trust,CAPETOWN,777 5
+437,"I Trust, O Christ, in You Alone",Trust,ALLEIN ZU DIR,87 87 88 848
+438,"In God, My Faithful God",Trust,AUF MEINEN LIEBEN GOTT,66 77 77
+439,"Lord, Take My Hand and Lead Me",Trust,SO NIMM DENN MEINE HÄNDE,74 74 D
+440,On Eagles’ Wings,Trust,ON EAGLES’ WINGS,Irregular
+441,"O God, Our Help in Ages Past",Trust,ST. ANNE,CM
+442,"Have No Fear, Little Flock",Trust,LITTLE FLOCK,66 76 6
+443,"Rejoice, My Heart, Be Glad and Sing",Trust,ICH SINGE DIR,CM
+444,If You But Trust in God to Guide You,Trust,WER NUR DEN LIEBEN GOTT,98 98 88
+445,Through Jesus’ Blood and Merit,Trust,"ICH DANK DIR, LIEBER HERRE",76 76 D
+446,"I Am Trusting You, Lord Jesus",Trust,STEPHANOS,85 83
+447,"Who Trusts in God, a Strong Abode",Trust,WAS MEIN GOTT WILL,447 447 D Iambic
+448,"In You, O Lord, I Put My Trust",Trust,IN DICH HAB ICH GEHOFFET,887 447
+449,Children of the Heavenly Father,Trust,TRYGGARE KAN INGEN VARA,LM Trochaic
+450,"God, My Lord, My Strength",Trust,PÁN BŮH,10 47 56 5
+451,"Precious Lord, Take My Hand",Trust,PRECIOUS LORD,Irregular
+452,Let Us Ever Walk with Jesus,Commitment,LASSET UNS MIT JESU ZIEHEN,87 87 877 877
+453,"Come, Follow Me, the Savior Spoke",Commitment,"MACHS MIT MIR, GOTT",87 87 88
+454,I Gave My Life for Thee,Commitment,OLD 120TH,66 66 66
+455,Rise! To Arms! With Prayer Employ You,Commitment,WACHET AUF,898 898 664 448
+456,"Forth in Your Name, O Lord, I Go",Commitment,LAKEWOOD,LM
+457,Fight the Good Fight,Commitment,MENDON,448 88
+458,"May We Your Precepts, Lord, Fulfill",Commitment,MERIBAH,886 886
+459,"O God, My Faithful God",Commitment,"O GOTT, DU FROMMER GOTT (II)",67 67 66 66
+460,"How Can I Thank You, Lord",Commitment,"O GOTT, DU FROMMER GOTT (II)",67 67 66 66
+461,"From Eternity, O God",Commitment,"LIEBSTER JESU, WIR SIND HIER",78 78 88
+462,"Oh, that the Lord Would Guide My Ways",Commitment,EVAN,CM
+463,Jesus Calls Us O’er the Tumult,Commitment,STUTTGART,87 87
+464,"Jesus Christ, My Pride and Glory",Commitment,"ACH, WAS SOLL ICH SÜNDER MACHEN",877 877
+465,"Jesus, I My Cross Have Taken",Commitment,HYFRYDOL,87 87 D
+466,Though Thoughtless Thousands Choose,Commitment,WAREHAM,LM
+467,May the Mind of Christ My Savior,Commitment,ST. LEONARD’S,87 85
+468,"My God, My Father, Make Me Strong",Commitment,ES IST KEIN TAG,888 4
+469,Take My Life and Let It Be,Commitment,PATMOS,77 77
+470,Praise to You and Adoration,Commitment,FREU DICH SEHR,87 87 77 88
+471,"Renew Me, O Eternal Light",Commitment,"HERR JESU CHRIST, MEINS",LM
+472,"Rise, My Soul, to Watch and Pray",Commitment,STRAF MICH NICHT,76 76 33 66
+473,"Savior, I Follow On",Commitment,WINTERTON,64 64 6664
+474,"Stand Up, Stand Up for Jesus",Commitment,WEBB,76 76 D
+475,The Man Is Ever Blest,Commitment,ST. MICHAEL,SM
+476,"Thee Will I Love, My Strength, My Tower",Commitment,ICH WILL DICH LIEBEN,98 98 86
+477,What Is the World to Me,Commitment,WAS FRAG ICH NACH DER WELT,67 67 66 66
+478,With the Lord Begin Your Task,Commitment,FANG DEIN WERK,76 76 D Trochaic
+479,"Jesus, Your Boundless Love to Me",Commitment,"VATER UNSER IM HIMMELREICH, DER DU",88 88 88
+480,"Almighty Father, Heaven and Earth",Stewardship,O HEILIGE DREIFALTIGKEIT,LM
+481,"O God, Your Hand the Heavens Made",Stewardship,KINGSFOLD,CM D
+482,"Forgive Us, Lord",Stewardship,SURSUM CORDA,10 10 10 10
+483,Lord of All Good,Stewardship,FARLEY CASTLE,10 10 10 10
+484,"Brothers, Sisters, Let Us Gladly",Stewardship,NETTLETON,87 87 D
+485,We Give Thee but Thine Own,Stewardship,ENERGY,SM
+486,"Lord of Glory, You Have Bought Us",Stewardship,HYFRYDOL,87 87 D
+487,O Lord of Heaven and Earth and Sea,Stewardship,ES IST KEIN TAG,888 4
+488,"Savior, Thy Dying Love",Stewardship,WINTERTON,64 64 6664
+489,"Lord, You Love the Cheerful Giver",Stewardship,PLEADING SAVIOR,87 87 D
+490,Love in Christ Is Strong and Living,Christian Love,DOROTHY,87 87
+491,O Master of the Loving Heart,Christian Love,AZMON,CM
+492,"Son of God, Eternal Savior",Christian Love,"LORD, REVIVE US",87 87 D
+493,Forgive Our Sins as We Forgive,Christian Love,DETROIT,CM
+494,Blest Be the Tie that Binds,Christian Love,BOYLSTON,SM
+495,Not for Tongues of Heaven’s Angels,Christian Love,BRIDEGROOM,87 87 6
+496,Glorious in Majesty,Christian Love,SHIBBOLET BASADEH,768 D with Refrain
+497,This Is My Will,Christian Love,SUANTRAI,LM
+498,Though I May Speak with Bravest Fire,Christian Love,GIFT OF LOVE,LM
+499,"O God of Mercy, God of Might",Christian Love,ISLEWORTH,888 6
+500,"For Christian Homes, O Lord, We Pray",Christian Home,"GOTTLOB, ES GEHT NUNMEHR ZU ENDE",LM
+501,"Our Father, by Whose Name",Christian Home,RHOSYMEDRE,66 66 888
+502,Lord of the Home,Christian Home,DEUS TUORUM MILITUM,LM
+503,"Oh, Blessed Home, Where Man and Wife",Christian Home,"OH, BLESSED HOME",887 887 7
+504,"Bless Our Loved Ones, Holy Father",Christian Home,STEPHANOS,85 83
+505,Love Is the Gracious Gift,Christian Home,BUNESSAN,Irregular
+506,"Oh, Blest the House, Whate’er Befall",Christian Home,WO GOTT ZUM HAUS,LM
+507,Lord of Our Growing Years,Christian Home,FREDRICK PLACE,66 66 88
+508,"Gracious Savior, Gentle Shepherd",Christian Education,"SIEH, HIER BIN ICH, EHRENKÖNIG",87 87 87
+509,How Shall the Young Secure Their Hearts,Christian Education,ST. PETER,CM
+510,"I Pray You, Dear Lord Jesus",Christian Education,JEG VIL MIG HERREN LOVE,76 76 D
+511,"O Lord, Our God, Your Gracious Hand",Christian Education,"O HERRE GOTT, DEIN GÖTTLICH WORT",87 87 447 447 Iambic
+512,Let Children Hear the Mighty Deeds,Christian Education,NUN DANKET ALL,CM
+513,"Lord Jesus Christ, the Children’s Friend",Christian Education,LAKEWOOD,LM
+514,"Lord, Help Us Ever to Retain",Christian Education,"HERR JESU CHRIST, MEINS",LM
+515,Shepherd of Tender Youth,Christian Education,OLIVET,664 6664
+516,"You Parents, Hear What Jesus Taught",Christian Education,"HERR JESU CHRIST, DICH ZU UNS WEND",LM
+517,"Almighty Father, Strong to Save",Social Concern,MELITA,88 88 88
+518,Forth in the Peace of Christ We Go,Social Concern,LLEDROD,LM
+519,"O God of Love, O King of Peace",Social Concern,ST. LUKE,LM
+520,"Your Hand, O Lord, in Days of Old",Social Concern,KINGSFOLD,CM D
+521,"Lord of All Nations, Grant Me Grace",Social Concern,BEATUS VIR,LM
+522,"Grant Peace, We Pray, in Mercy, Lord",Social Concern,VERLEIH UNS FRIEDEN GNÄDIGLICH,87 87 8
+523,God of Grace and God of Glory,Social Concern,CWM RHONDDA,87 87 877
+524,"O Fount of Good, for All Your Love",Social Concern,ST. FLAVIAN,CM
+525,"The Son of God, Our Christ",Social Concern,SURSUM CORDA,10 10 10 10
+526,We Are Your People,Social Concern,WHITFIELD,Irregular
+527,Weary of All Trumpeting,Social Concern,DISTLER,76 76 D
+528,Christ Is Our Cornerstone,Church,DARWALL’S 148TH,66 66 4444
+529,Built on the Rock,Church,KIRKEN DEN ER ET GAMMELT HUS,88 88 88 8
+530,Hark! The Church Proclaims Her Honor,Church,STUTTGART,87 87
+531,Christ Is Made the Sure Foundation,Church,WESTMINSTER ABBEY,87 87 87
+532,God Is Here! As We His People,Church,IN BABILONE,87 87 D
+533,"I Love Your Kingdom, Lord",Church,ST. THOMAS,SM
+534,In the Midst of Earthly Life,Church,MITTEN WIR IM LEBEN SIND,PM
+535,Our Fathers’ God in Years Long Gone,Church,O GROSSER GOTT,LM D
+536,"Lord Jesus Christ, the Church’s Head",Church,REUTER,87 87 65 66 7
+537,"Onward, Christian Soldiers",Church,ST. GERTRUDE,65 65 D with Refrain
+538,The Church’s One Foundation,Church,AURELIA,76 76 D
+539,In Christ There Is No East or West,Church,MCKEE,CM
+540,"Rejoice, O Pilgrim Throng",Church,MARION,SM with Refrain
+541,"Lord Jesus Christ, with Us Abide",Church,ACH BLEIB BEI UNS,LM
+542,"Dear Lord, to Your True Servants Give",Ministry,MELITA,88 88 88
+543,God of the Prophets,Ministry,OLD 124TH,10 10 10 10
+544,Preach You the Word,Ministry,"O HEILAND, REISS DIE HIMMEL AUF",LM
+545,"Send, O Lord, Your Holy Spirit",Ministry,WERDE MUNTER,87 87 77 88
+546,"Lord Jesus, You Have Come",Ministry,"O GOTT, DU FROMMER GOTT (II)",67 67 66 66
+547,We Bid You Welcome in the Name,Ministry,"HERR JESU CHRIST, MEINS",LM
+548,"O Lord, in Prayer You Spent the Night",Ministry,ST. PETERSBURG,88 88 88
+549,"Around the Throne, a Glorious Band",Saints and Martyrs,ROCKINGHAM OLD,LM
+550,"Behold a Host, Arrayed in White",Saints and Martyrs,GREAT WHITE HOST,PM
+551,For All the Saints,Saints and Martyrs,SINE NOMINE,10 10 10 with Alleluias
+552,By All Your Saints Still Striving,Saints and Martyrs,KUORTANE,76 76 D
+553,Give Thanks to God on High,Saints and Martyrs,FRANKLIN,66 86 66
+554,"Oh, How Blest Are They",Saints and Martyrs,O WIE SELIG,10 10 5 10
+555,"For All Your Saints, O Lord",Saints and Martyrs,ENERGY,SM
+556,"Rise, Shine, You People",Evangelism,WOJTKIEWIECZ,11 11 11 5
+557,On Galilee’s High Mountain,Evangelism,MISSIONARY HYMN,76 76 D
+558,Christ High-Ascended,Evangelism,CHRISTE SANCTORUM,11 11 11 6
+559,Lord of the Living Harvest,Evangelism,AURELIA,76 76 D
+560,I Hear the Savior Calling,Evangelism,ANTHES,76 76 D
+561,"Lord, Speak to Us that We May Speak",Evangelism,CANONBURY,LM
+562,I Love to Tell the Story,Evangelism,HANKEY,76 76 D with Refrain
+563,Go Labor On,Evangelism,DEUS TUORUM MILITUM,LM
+564,There Is a Balm in Gilead,Evangelism,BALM IN GILEAD,Irregular
+565,There Still Is Room,Evangelism,ES IST GENUG,10 6 10 6 99 44
+566,We All Are One in Mission,Evangelism,WEBB,76 76 D
+567,"Awake, O Spirit, Who Inspired",Missions,ALL EHR UND LOB,88 88 88
+568,Good News of God Above,Missions,DOUSMAN,66 86 66 44 6
+569,"O Christ, Our True and Only Light",Missions,"O JESU CHRISTE, WAHRES LICHT",LM
+570,"O Christians, Haste",Missions,REDEMPTION,11 10 11 10 with Refrain
+571,From Greenland’s Icy Mountains,Missions,MISSIONARY HYMN,76 76 D
+572,"Send Forth, O Lord, to Every Place",Missions,ISLEWORTH,888 6
+573,Hark! The Voice of Jesus Crying,Missions,GALILEAN,87 87 D
+574,May God Bestow on Us His Grace,Missions,ES WOLLE GOTT UNS GNÄDIG SEIN,87 87 87 87 7
+575,How Shall They Hear the Word of God,Missions,AUCH JETZT MACHT GOTT,86 86 88
+576,"Spread, Oh, Spread the Mighty Word",Missions,HÖCHSTER PRIESTER,77 77
+577,"Rise, O Light of Gentile Nations",Missions,O DU LIEBE MEINER LIEBE,87 87 D
+578,"Saints of God, the Dawn Is Brightening",Missions,REGENT SQUARE,87 87 87
+579,Lift High the Cross,Missions,CRUCIFER,10 10 10 10
+580,Every Morning Mercies New,Morning,VOLLER WUNDER,77 77 77
+581,"Father, We Praise You",Morning,CHRISTE SANCTORUM,11 11 11 5
+582,"Awake, My Soul, and with the Sun",Morning,MORNING HYMN,LM
+583,Now that the Daylight Fills the Sky,Morning,LAUREL,LM
+584,"O Blessed, Holy Trinity",Morning,O HEILIGE DREIFALTIGKEIT,LM
+585,While Yet the Morn Is Breaking,Morning,"GEDULD, DIE SOLLN WIR HABEN",76 76 D
+586,O Splendor of God’s Glory Bright,Morning,O HEILIGE DREIFALTIGKEIT,LM
+587,Now Rest Beneath Night’s Shadow,Evening,"O WELT, ICH MUSS DICH LASSEN",776 778
+588,Abide with Me,Evening,EVENTIDE,10 10 10 10
+589,Now the Day Is Over,Evening,MERRIAL,65 65
+590,"God, Who Made the Earth and Heaven",Evening,AR HYD Y NOS,84 84 888 4
+591,"O Trinity, Most Blessed Light",Evening,O HEILIGE DREIFALTIGKEIT,LM
+592,"All Praise to Thee, My God, This Night",Evening,EVENING HYMN,LM D
+593,Now the Light Has Gone Away,Evening,MÜDE BIN ICH,77 77
+594,"The Day You Gave Us, Lord, Is Ended",Evening,ST. CLEMENT,98 98
+595,Before the Ending of the Day,Evening,JAM LUCIS,LM
+596,Let Me Be Yours Forever,Confirmation,"ICH DANK DIR, LIEBER HERRE",76 76 D
+597,May God the Father of Our Lord,Confirmation,TALLIS’ CANON,LM
+598,"My Maker, Be with Me",Confirmation,"MEIN SCHÖPFER, STEH MIR BEI",66 66 77 77 86
+599,"Our Lord and God, Oh, Bless This Day",Confirmation,REUTER,87 87 66 66 7
+600,O Perfect Love,Marriage,O PERFECT LOVE,11 10 11 10
+601,"Your Love, O God, Has Called Us Here",Marriage,WAREHAM,LM
+602,God of Love and God of Marriage,Marriage,GOD OF LOVE,87 87 89 87
+603,"Hear Us Now, Our God and Father",Marriage,HYFRYDOL,87 87 D
+604,O Love that Casts Out Fear,Marriage,ICH HALTE TREULICH STILL,66 66 D
+605,Asleep in Jesus! Blessed Sleep,Death and Burial,REST,LM
+606,For Me to Live Is Jesus,Death and Burial,"CHRISTUS, DER IST MEIN LEBEN",76 76
+607,How Blest Are They,Death and Burial,WINCHESTER NEW,LM
+608,I Fall Asleep in Jesus’ Wounds,Death and Burial,"VATER UNSER IM HIMMELREICH, DER DU",88 88 88
+609,"We Praise You, O God, Our Redeemer",Thanksgiving,KREMSER,12 11 12 11
+610,Now Thank We All Our God,Thanksgiving,NUN DANKET ALLE GOTT,67 67 66 66
+611,For the Fruit of His Creation,Thanksgiving,AR HYD Y NOS,84 84 888 4
+612,"Praise to God, Immortal Praise",Thanksgiving,DIX,77 77 77
+613,"Come, You Thankful People, Come",Thanksgiving,"ST. GEORGE’S, WINDSOR",77 77 D
+614,Sing to the Lord of Harvest,Thanksgiving,WIE LIEBLICH IST DER MAIEN,76 76 D
+615,We Thank You for Your Blessings,Thanksgiving,ELLACOMBE,76 76 D
+616,"Feed Your Children, God Most Holy",Thanksgiving,SCHMÜCKE DICH,LM D Trochaic
+617,"Christ, by Heavenly Hosts Adored",Nation,"ST. GEORGE’S, WINDSOR",77 77 D
+618,Before the Lord We Bow,Nation,DARWALL’S 148TH,66 66 4444
+619,God Bless Our Native Land,Nation,AMERICA,664 6664
+620,"To You, Our God, We Fly",Nation,CROFT’S 136TH,66 66 88
+621,For Years on Years of Matchless Grace,Church Anniversary,FOX VALLEY,LM
+622,"For Many Years, O God of Grace",Church Anniversary,WIE SCHÖN LEUCHTET,887 887 22 44 48
+623,"God the Father, Son, and Spirit",Church Anniversary,ST. HILARY,87 87 D
+701,"Zion, at Your Shining Gates",Advent,COVENANT CHURCH,77 77
+702,Prepare the Royal Highway,Advent,BEREDEN VÄG FÖR HERRAN,76 76 77 and Refrain
+703,My Soul in Stillness Waits,Advent,MY SOUL IN STILLNESS WAITS,11 10 11 and Refrain
+704,"Lo, He Comes With Clouds Descending",Advent,HELMSLEY,87 87 12 7
+705,The Night Will Soon Be Ending,Advent,LLANGLOFFAN,76 76 D
+706,A Stable Lamp Is Lighted,Christmas,STABLE LAMP,76 76 676
+707,Peace Came to Earth,Christmas,PEACE CAME TO EARTH,10 10 10 88
+708,Now Greet the Swiftly Changing Year,New Year,SIXTH NIGHT,88 86
+709,"Christ, Your Footprints Through the Desert",Epiphany,BEACH SPRING,87 87 D
+710,"Jesus, Once With Sinners Numbered",Epiphany,MISSISSIPPI,87 87 D
+711,Jesus Has Come and Brings Pleasure Eternal,Epiphany,"JESUS IST KOMMEN, GRUND EWIGER FREUDE",11 10 11 10 11 11
+712,"Jesus, Take Us to the Mountain",Transfiguration,SILVER SPRING,87 87 77
+713,In Silent Pain the Eternal Son,Lent,REALITY,86 86 88 86
+714,The Lamb,Lent,WINTER,48 48 and Refrain
+715,What Grace Is This!,Lent,WHAT GRACE,44 886
+716,No Tramp of Soldiers’ Marching Feet,Palm Sunday,NO TRAMP OF SOLDIERS’ MARCHING FEET,CM D
+717,When You Woke That Thursday Morning,Maundy Thursday,MAUNDY,87 87 D
+718,"Rest, O Christ, From All Your Labor",Good Friday,"O MEIN JESU, ICH MUSS STERBEN",87 87 D
+719,"Christ Has Arisen, Alleluia",Easter,MFURAHINI HALELUYA,99 99 and Refrain
+720,Christ Jesus Lay in Death’s Strong Bands,Easter,NORTHRIDGE,87 87 78 744
+721,If Christ Had Not Been Raised From Death,Easter,UNION CITY,CM D
+722,"Scatter the Darkness, Break the Gloom",Easter,BESANÇON,8 7 9 8 8 7
+723,"Holy Spirit, the Dove Sent From Heaven",Pentecost,SANTO ESPIRÍTU,10 9 6 9 D
+724,Voices Raised to You We Offer,Holy Trinity,SONG OF PRAISE,87 87 87
+725,The God of Love,St. Michael and All Angels,GOD’S ANGELS,86 866
+726,"Christ, the Lord of Hosts, Unshaken",St. Michael and All Angels,FORTUNATUS NEW,87 87 87
+727,There Is a Higher Throne,End Time,THERE IS A HIGHER THRONE,12 12 12 12 and Refrain
+728,Jerusalem the Golden,End Time,THAXTED,76 76 76 D
+729,There Is a Blessed Home,End Time,ARIC,12 12 14 12
+730,Blessed Are They,End Time,BLESSED ARE THEY,77 78
+731,The King Will Come at Age’s End,End Time,AGE’S END,88 84
+732,We Are Singing,Worship and Praise,SIYAHAMBA,87 86 and Refrain
+733,Rejoice in God,Worship and Praise,MT. GRETNA,88 6 88 86
+734,When in Our Music God Is Glorified,Worship and Praise,ROBINSON,10 10 10 and Alleluias
+735,"Speak, O Lord",Word of God,"SPEAK, O LORD",8 10 8 10 10 10 8 10
+736,All Christians Who Have Been Baptized,Baptism,NUN FREUT EUCH,87 87 887
+737,"God’s Own Child, I Gladly Say It",Baptism,BACHOFEN,87 87 88 77
+738,In Hopelessness and Near Despair,Confession and Absolution,NEWHOPE,87 87 887
+739,Baptismal Waters Cover Me,Confession and Absolution,KATY,88 88
+740,Draw Near,Holy Communion,DRAW NEAR,10 10 10 10 and Refrain
+741,Take and Eat,Holy Communion,TAKE AND EAT,10 10 10 10 and Refrain
+742,What Is This Bread?,Holy Communion,PREPARATION,48 44 88
+743,"O Gracious Lord, I Firmly Am Believing",Holy Communion,OH BUEN JESÚS,11 10 11 10 10
+744,You Satisfy the Hungry Heart,Holy Communion,BICENTENNIAL,86 86 and Refrain
+745,May the Peace of God,Close of Service,MAY THE PEACE OF GOD,10 9 10 9 and Refrain
+746,"You, Lord, Are Both Lamb and Shepherd",Redeemer,PICARDY,87 87 87
+747,There Is a Redeemer,Redeemer,THERE IS A REDEEMER,65 85 and Refrain
+748,Lamb of God,Redeemer,LAMB OF GOD,88 88 and Refrain
+749,"The Love of Christ, Who Died for Me",Redeemer,RESIGNATION,CM D
+750,"Christ, the Word of God Incarnate",Redeemer,HOLY MANNA,87 87 D
+751,"Word of God, When All Was Silent",Redeemer,WESTMINSTER ABBEY,87 87 87
+752, In Christ Alone,Redeemer,IN CHRIST ALONE,88 88 D
+753,"Father, God of Grace, You Knew Us",Justification,LAUDA ANIMA,87 87 87
+754,The Tree of Life,Justification,TREE OF LIFE,88 88 88 88
+755,"Your Kingdom, O God",Faith,GLORIOUS TREASURE,12 8 12 8 D
+756,We Walk by Faith and Not by Sight,Faith,SHANTI,86 86
+757,Where Your Treasure Is,Trust,WHERE YOUR TREASURE IS,10 11 10 9 9 8 9 12
+758,Blest Are They,Trust,BLEST ARE THEY,Irregular
+759,Do Not Let Your Hearts Be Troubled,Trust,DO NOT LET YOUR HEARTS BE TROUBLED,88 11 99 99 99
+760,When Peace Like a River,Trust,VILLE DU HAVRE,11 8 11 9 and Refrain
+761,Christ Is With Me,Trust,CHRIST IS WITH ME,9 9 9 10 and Refrain
+762,Consider How the Birds Above,Trust,NORTHCROFT,88 88
+763,Jesus Sat With His Disciples,Trust,JOYOUS LIGHT,87 87 D
+764,There Is a Time for Everything,Trust,ST. PETER’S NORWALK,88 88 D
+765,Day by Day,Trust,BLOTT EN DAG,10 9 10 9 D
+766,The Lord’s My Shepherd,Trust,BROTHER JAMES’ AIR,86 86 86
+767,The Lord Is My Light,Trust,EL SEÑOR ES MI LUZ,Irregular
+768,How Firm a Foundation,Trust,FOUNDATION,11 11 11 11
+769,Lord of All Hopefulness,Trust,SLANE,Irregular
+770,"O Christ, Who Called the Twelve",Commitment,TERRA BEATA,66 86 66 86
+771,I Want to Walk as a Child of the Light,Commitment,HOUSTON,10 7 10 8 and Refrain
+772,When Jesus Came From Nazareth,Commitment,FOLLOW ME,14 14 6
+773,In Unity and Peace,Christian Love,IN UNITY AND PEACE,Irregular
+774,"Church of God, Elect and Glorious",Church,ABBOT’S LEIGH,87 87 D
+775,For Builders Bold Whose Vision Pure,Church,FLIGHT OF THE EARLS,86 86 D
+776,Sing With All the Saints in Glory,Saints and Martyrs,MISSISSIPPI,87 87 D
+777,Now Let Us All in Hymns of Praise,Evangelism,OPEN DOOR,14 14 14 14
+778,"“How Shall They Hear,” Who Have Not Heard",MIssions,KATY,88 88
+779,I Sing as I Arise Today,Morning,ROCKINGHAM OLD,88 88
+780,Stay With Us,Evening,STAY WITH US,78 77
+781,"I Lie, O Lord, Within Your Care",Evening,"ICH LIEGE, HERR, IN DEINER HUT",87 87
+782,"Lord, Support Us All Day Long",Evening,GWALCHMAI,74 74 D
+783,"Stay With Us, Lord, the Sun Descends",Evening,COLCHESTER,86 86
+784,"O Gracious Lord, With Love Draw Near",Confirmation,JENNINGS,88 88
+785,O Lord of Nations,Nation,KIRKWOOD,88 86 86
+786,The Song of Moses,Canticles,,
+787,A Canticle to the Lamb,Canticles,,
+788,Thanks Be to God!,Canticles,,
