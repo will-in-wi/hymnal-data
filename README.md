@@ -4,6 +4,8 @@ I have a project I'm working on, which involves indexing data from various hymna
 
 This repo is an index of hymns to which I waive all copyright that could result from my work. Any copyright held by the original holders, of course, persists. I will note each hymnal's copyright information next to it.
 
+If you find an error, please file an Issue or Pull Request.
+
 ## Christian Worship: A Lutheran Hymnal
 
 Published in 1993 by Northwestern Publishing House for the Wisconsin Evangelical Lutheran Synod.
